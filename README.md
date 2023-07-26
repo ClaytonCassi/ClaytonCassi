@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=claytoncassi)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m @ClaytonCassi
 - 👀 I’m interested in Typescript / Javascript ecosystem
 - 🌱 I’m currently working in NodeJS - Building microsservices with NestJs :) its so cool.
