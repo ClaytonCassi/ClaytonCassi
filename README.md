@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @ClaytonCassi
 - 👀 I’m interested in Typescript / Javascript ecosystem.
 - 🌱 I’m currently working in NodeJS - Building microsservices with NestJs :) its so cool.
-- 📫 How to reach me ...https://www.linkedin.com/in/claytonvieira/
+- 📫 How to reach me ...https://www.linkedin.com/in/claytonvieira
 
 
 
